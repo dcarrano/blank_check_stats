@@ -6,4 +6,8 @@ Running the **blank_check.ipynb** Python notebook will create a file called **bl
 
 To run the notebook, you'll need the Rotten Tomatoes Scraper package, and all the packages upon which it in turn is dependent. You'll also need the [Pandas](https://pandas.pydata.org/) package.
 
-Enjoy!
+**Blank Check** covers both directors (on its main feed), and franchises (on its [Patreon feed](https://www.patreon.com/blankcheck/posts)). This can lead to duplication... for instance, James Cameron's film **Aliens** has been covered both as part of a Cameron series, and as part of an **Alien** franchise series. For certain uses -- e.g., calculating the average Rotten Tomatoes score of directors and/or franchises -- this is the desired behavior. There are other situations where you may wish to drop the duplicates.
+
+Note that, because of the way that Rotten Tomatoes Scraper is set up, only movies covered by the "director" series will have info regarding year of release and box office. Also, Rotten Tomatoes' box office info is very spotty in general... e.g., **Star Wars** is listed as making $365, and sometimes even recent movies like **Aloha** have no info.
+
+Smell ya later, fartheads!
