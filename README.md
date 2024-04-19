@@ -1,6 +1,6 @@
 # Real Nerdy Stats
 
-This Python project scrapes Rotten Tomatoes to compile information about movies discussed by the podcast [Blank Check with Griffin and David](https://audioboom.com/channel/Blank-Check). It requires the packages **pandas** and **BeautifulSoup**.
+This Python project scrapes Rotten Tomatoes to compile information about movies discussed by the podcast [Blank Check with Griffin and David](https://blankcheckpod.com). It requires the packages **pandas** and **BeautifulSoup**.
 
 You will need to have the **blank_check_rt.ipynb** Jupyter notebook and the **blank_check_addl.ods** spreadsheet in the working folder. Running the notebook will create a file in that folder called **blank_check_rt.csv** with the compiled stats. (I've also uploaded these contents to [Google Sheets](https://docs.google.com/spreadsheets/d/1Y2KnLLl1tnineLOUMjU4lOK7PS76i6O35zkGX-aewfQ/edit?usp=sharing).)
 
