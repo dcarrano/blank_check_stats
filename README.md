@@ -8,6 +8,6 @@ You will need to have the **blank_check_rt.ipynb** Jupyter notebook and the **bl
 
 The "subject" of the miniseries has been entered as the podcast classified it, regardless of whether it technically qualifies. For instance, **A Star Is Born** (1976) was not technically directed by Barbra Streisand, but it's included as part of the Streisand mini-series because that's how the podcast treated it. Similarly, on the Patreon side, **The Love Guru** is grouped together with the Austin Powers franchise.
 
-Please note that scraping by its nature is unreliable. Errors are common, and repeating scraping can result in IP bans or other loss of access to the Rotten Tomatoes site.
+Please note that scraping by its nature is unreliable. Errors are common, and repeated scraping can result in IP bans or other loss of access to the Rotten Tomatoes site.
 
 Smell ya later, fartheads!
